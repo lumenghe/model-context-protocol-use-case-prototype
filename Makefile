@@ -32,8 +32,8 @@ flake: ## check style with flake8
 
 .PHONY: format
 format:
-	isort simple_add -l 120
-	black --target-version py311 simple_add --line-length 120
+	isort simple_add langgraph_mcp -l 120
+	black --target-version py311 simple_add langgraph_mcp --line-length 120
 
 .PHONY: mypy
 mypy:
