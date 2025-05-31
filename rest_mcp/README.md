@@ -22,7 +22,7 @@ RestMCP is a simple yet powerful tool that lets you interact with any REST API u
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/lumenghe/restmcp.git
+git clone https://github.com/lumenghe/rest-mcp.git
 cd restmcp
 ```
 
@@ -165,7 +165,7 @@ MIT License - see LICENSE file for details.
 
 ## Examples Repository
 
-Check out our [examples repository](https://github.com/lumenghe) for more advanced usage patterns and real-world scenarios.
+Check out [examples repository](https://github.com/lumenghe) for more advanced usage patterns and real-world scenarios.
 
 ---
 
